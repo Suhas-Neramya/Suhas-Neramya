@@ -4,7 +4,7 @@
 <br>
 
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <a href="https://twitter.com/@suhasneramya" target="blank"><img src="https://img.shields.io/twitter/follow/@suhasneramya?logo=twitter&style=for-the-badge" alt="@suhasneramya" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, React, MongoDB**
