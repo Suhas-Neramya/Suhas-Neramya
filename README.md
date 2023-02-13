@@ -18,7 +18,7 @@
 <a href="https://dev.to/suhasneramya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suhasneramya" height="30" width="40" /></a>
 <a href="https://twitter.com/@suhasneramya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@suhasneramya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suhas-neramya-35343421b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhas neramya" height="30" width="40" /></a>
-<a href="https://kaggle.com/suhas neramya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suhas neramya" height="30" width="40" /></a>
+<a href="https://kaggle.com/suhasneramya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suhas neramya" height="30" width="40" /></a>
 <a href="https://instagram.com/suhazzz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhazzz_" height="30" width="40" /></a>
 </p>
 
