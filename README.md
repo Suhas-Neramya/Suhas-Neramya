@@ -27,5 +27,5 @@
 <br>
 <p>&nbsp; <! --<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhas-neramya&show_icons=true&locale=en&theme=material-palenight" alt="suhas-neramya" />
 <! -- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhas-neramya&layout=compact&theme=material-palenight" alt="suhas-neramya" /> 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="suhas-neramya-35343421b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/suhas-neramya-35343421b?trk=profile-badge">Suhas Neramya</a></div>
 </p>
