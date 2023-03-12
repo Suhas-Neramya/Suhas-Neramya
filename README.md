@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suhas Chandrasekara</h1>
 <h3 align="center">Hey there! I'm an undergraduate at IIT Sri Lanka. I'm currently in my second year and I'm just 18 years old. I love to code! It's my absolute passion and I can't get enough of it.</h3>
 <br>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
