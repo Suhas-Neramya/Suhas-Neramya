@@ -1,6 +1,6 @@
 ![MasterHead](https://wallpaperaccess.com/full/2825710.gif)
 <h1 align="center">Hi 👋, I'm Suhas Chandrasekara</h1>
-<h3 align="center">Hey there! I'm an undergraduate at IIT Sri Lanka. I'm currently in my Third Year and working as an Intern at <a href = "www.ifs.com"> ifs</a> . I love to code! It's my absolute passion and I can't get enough of it.</h3>
+<h3 align="center">Hey there! I'm an undergraduate at IIT Sri Lanka. I'm currently in my Third Year and working as an Intern at <a href = "https://www.ifs.com"> ifs</a> . I love to code! It's my absolute passion and I can't get enough of it.</h3>
 <br>
 
 
